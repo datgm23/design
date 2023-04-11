@@ -21,3 +21,4 @@
 - 演習：ミニゲームを考えてみよう
   - Googleドキュメント、スライド、ワークシートのいずれか
   - 共有URLをSlackの自分のチャンネルに書き込む
+  - 参考 [ゲームクリエイター甲子園の応募作品一覧. 企画カテゴリ](https://gameparade.creators-guild.com/works?category=2&order=date)
