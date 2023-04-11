@@ -17,7 +17,7 @@
 - 講義：ゲームの定義
   - [スライド:ゲームの定義や要素からミニゲームを考える](https://docs.google.com/presentation/d/1_psbxg6vPk21C3nAcytyVJm8QTYr-G7AV1qAtjcRclg/)
   - [Unity Learning Material. たのしさの作り方 ](https://learning.unity3d.jp/2618/)
-  - [ゲームクリエイター甲子園2021受賞作品紹介](https://youtu.be/WVOuZTmua_8)
+  - [ゲームクリエイター甲子園2023](https://game.creators-guild.com/gck2023/) ページの下の方に昨年度の受賞作品をまとめた動画があるので見てみよう
 - 演習：ミニゲームを考えてみよう
   - Googleドキュメント、スライド、ワークシートのいずれか
   - 共有URLをSlackの自分のチャンネルに書き込む
