@@ -1,7 +1,7 @@
 # ゲームデザイン実習(2023年度入学生)
 
-- [シラバス]()
-- [Google Meet]()
+- [シラバス](https://drive.google.com/file/d/11XRL_izyftGeOeCNQ9j3GtPYgK4v1URV/view?usp=sharing)
+- [Google Meet](https://meet.google.com/bwb-njcm-udh)
 - [Slack](https://datgm23.slack.com)
 - [金曜 講義日程](fri.md)
 - [UNITYの準備](https://am1.jp/tutorials/unity/)
