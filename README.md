@@ -20,6 +20,7 @@
   - [ゲームクリエイター甲子園2023](https://game.creators-guild.com/gck2023/) ページの下の方に昨年度の受賞作品をまとめた動画があるので見てみよう
   - 参考 [ゲームクリエイターズギルド. Reverse Room](https://game.creators-guild.com/g4c/23951/?utm_source=rss&utm_medium=rss&utm_campaign=23951)
 - 演習：ミニゲームを考えてみよう
-  - Googleドキュメント、スライド、ワークシートのいずれか
+  - Googleドキュメントを作成して、0414企画案という名前にする
+  - [こちら](https://docs.google.com/forms/d/e/1FAIpQLSe5OMfKZjLNLYv0U5BbUoH8vfAeRe069TZuiyLHYNjqp8wIJA/viewform?usp=sf_link)へ名前と共有URLを報告
   - 共有URLをSlackの自分のチャンネルに書き込む
   - 参考 [ゲームクリエイター甲子園の応募作品一覧. 企画カテゴリ](https://gameparade.creators-guild.com/works?category=2&order=date)
