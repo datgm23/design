@@ -11,6 +11,17 @@
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
+## 3回目(4/28)
+
+### 予定
+- GP1振り返り
+- 前回提出したブレスト企画の共有
+- ゲームメカニクス
+
+<!--
+- [ゲームメカニクス](https://docs.google.com/document/d/1U0DTbG__KQNiOBQCGeCm2Ty7IiBCMrEJgIMEMfH3MZk/edit?usp=sharing)
+-->
+
 ## 2回目(4/21)
 
 ### 話題
