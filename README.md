@@ -13,9 +13,12 @@
 
 ## 3回目(4/28)
 
+### 話題
+- [参考企画案 ぺんそろ](https://docs.google.com/document/d/1y-jzBfFmothjNUP9EYf7D2keuFi20uoUMdiLOqkhy-g/)
+
+
 ### 予定
 - GP1振り返り
-- [参考企画案 ぺんそろ](https://docs.google.com/document/d/1y-jzBfFmothjNUP9EYf7D2keuFi20uoUMdiLOqkhy-g/)
 - 前回提出したブレスト企画の共有
 - ゲームメカニクス
 
