@@ -30,14 +30,10 @@
 - ブレスト
   - [面白法人カヤック. 始まりも終わりもブレスト](https://www.kayac.com/vision/brainstorm)
 - 手順
-
-<!--
-- [こちら](https://docs.google.com/spreadsheets/d/1APZJoKXJZoHqWkuZwg9Rig9-6vn9_1DFQteV0rZ4Ax4/edit?usp=sharing)を右クリックして、新しいタブで開く
-  - シートしたから自分のグループのタブをクリックして開く
-  - A列に、ホワイトボード側の人から順に思いついた単語を入力していく
-  - ※ブレストの目的は、普通は出ないような飛躍的な案を出すこと
-
--->
+  - [こちら](https://docs.google.com/spreadsheets/d/1APZJoKXJZoHqWkuZwg9Rig9-6vn9_1DFQteV0rZ4Ax4/edit?usp=sharing)を右クリックして、新しいタブで開く
+    - シートしたから自分のグループのタブをクリックして開く
+    - A列に、ホワイトボード側の人から順に思いついた単語を入力していく
+    - ※ブレストの目的は、普通は出ないような飛躍的な案を出すこと
 
 ### 演習２：ブレストで出た単語から3つのランダムワードを使った企画を考える
 - スライドの準備
