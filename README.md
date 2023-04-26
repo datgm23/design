@@ -20,11 +20,7 @@
 ### 予定
 - GP1振り返り
 - 前回提出したブレスト企画の共有
-- ゲームメカニクス
-
-<!--
 - [ゲームメカニクス](https://docs.google.com/document/d/1U0DTbG__KQNiOBQCGeCm2Ty7IiBCMrEJgIMEMfH3MZk/edit?usp=sharing)
--->
 
 ## 2回目(4/21)
 
