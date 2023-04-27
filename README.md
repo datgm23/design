@@ -14,12 +14,13 @@
 ## 3回目(4/28)
 
 ### 話題
+- [ふりーむ. #ゲ制JAM](https://twitter.com/FreemGames/status/1649712904277721088) 4/29 0時～5/7 24時(9日間)
 - [gihyo.jp. 生成系AIについて開発者が知っておくべきこと](https://gihyo.jp/article/2023/04/what-developers-need-to-know-about-generative-ai?summary)
 
 
 ### 予定
 - GP1振り返り
-- 提出された企画の共有
+- 企画案の共有
 - [ゲームメカニクス / 演習：ハイパーカジュアルゲームを考える](https://docs.google.com/document/d/1U0DTbG__KQNiOBQCGeCm2Ty7IiBCMrEJgIMEMfH3MZk/edit?usp=sharing)
   - [参考企画案 ぺんそろ](https://docs.google.com/document/d/1y-jzBfFmothjNUP9EYf7D2keuFi20uoUMdiLOqkhy-g/)
 
