@@ -20,8 +20,9 @@
 
 ### 予定
 - GP1振り返り
+- [前回の振り返り](https://docs.google.com/document/d/1ItqVAv-e-dnThzUF1o-8xucq7l95gel6FF9-96kBkpo/)
 - 企画案の共有
-- [ゲームメカニクス / 演習：ハイパーカジュアルゲームを考える](https://docs.google.com/document/d/1U0DTbG__KQNiOBQCGeCm2Ty7IiBCMrEJgIMEMfH3MZk/edit?usp=sharing)
+- [ゲームメカニクス / 演習：ハイパーカジュアルゲームを考える](https://docs.google.com/document/d/1U0DTbG__KQNiOBQCGeCm2Ty7IiBCMrEJgIMEMfH3MZk/)
   - [参考企画案 ぺんそろ](https://docs.google.com/document/d/1y-jzBfFmothjNUP9EYf7D2keuFi20uoUMdiLOqkhy-g/)
 
 ## 2回目(4/21)
