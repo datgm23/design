@@ -15,7 +15,7 @@
 
 ### 予想
 - 前回のハイパーカジュアルゲーム案の共有
-
+  - 参考：[ぺんすら](https://docs.google.com/presentation/d/15EZB7gpFN0kpxiyKtEXwAnLeLGG8FeNGxCPlM4AfReA/)
 
 ## 3回目(4/28)
 
