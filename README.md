@@ -18,6 +18,22 @@
 - [ファミ通.com. 『アーマードコア6』山村D＆小倉Pロングインタビュー](https://www.famitsu.com/news/202304/27300778.html)
 - [gihyo.jp. 生成系AIについて開発者が知っておくべきこと](https://gihyo.jp/article/2023/04/what-developers-need-to-know-about-generative-ai?summary)
 
+### GP1振り返り
+
+「書く教科書」を参照して、以下の手順に従ってVisusl C#プロジェクトを作成して、Visual StudioのスクリーンショットをSlackに貼り付けよ。
+
+※自分で作成した書く教科書がない場合は[こちら](https://github.com/datgm23/csharp-manual)を参照する。
+
+1. 書く教科書の手順に従ってVisual Studioを起動する
+1. 新しいC#のプロジェクトを`cs0428`という名前で作成する
+1. ボタンを1つ置く
+1. ボタンをクリックしたら、メッセージボックスで自分の名前が表示されるプログラムを作成する
+1. プログラムを開始して、ボタンを押してメッセージを表示する
+1. Windowsキー + Shiftキー + Sキーを押してスクリーンショットメニューを表示して、**全画面表示の領域切り取り**をクリック
+1. https://datgm23.slack.com を開く
+1. 学校で作成したGoogleアカウントでSlackにサインイン
+1. 「#times_自分の名前」のチャンネルにCtrlキー + Vキーでスクリーンショットを貼り付けて、メッセージを送信する
+
 
 ### 予定
 - GP1振り返り
