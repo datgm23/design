@@ -11,6 +11,12 @@
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
+## 4回目()
+
+### 予想
+- 前回のハイパーカジュアルゲーム案の共有
+
+
 ## 3回目(4/28)
 
 ### 話題
