@@ -11,11 +11,20 @@
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
-## 4回目()
+## 4回目(5/12)
 
-### 予想
+### 予定
 - 前回のハイパーカジュアルゲーム案の共有
   - 参考：[ぺんすら](https://docs.google.com/presentation/d/15EZB7gpFN0kpxiyKtEXwAnLeLGG8FeNGxCPlM4AfReA/)
+- [形のデザイン](https://am1.space/dat/design/design3-shape.pdf)
+  - [Unityでモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/edit?usp=sharing
+- 演習：企画の構想
+  - これまで出した案や新しい企画を考えて、手持ちの企画として構想をまとめる
+  - [企画構想書テンプレート](https://docs.google.com/document/d/1VtRoODgC0lQ9ch7H-Mcx0GqqLtVlkcAjQ7JxabvHKdM/)を開く
+  - ファイルメニューから コピーを作成 を選択
+  - 適当なフォルダーの場所を選択して、コピーを作成 をクリック
+  - 以上でコピーしたドキュメントの各項目を記入していく
+
 
 ## 3回目(4/28)
 
