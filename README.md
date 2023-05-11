@@ -14,10 +14,10 @@
 ## 4回目(5/12)
 
 ### 予定
-- 前回のハイパーカジュアルゲーム案の共有
-  - 参考：[ぺんすら](https://docs.google.com/presentation/d/15EZB7gpFN0kpxiyKtEXwAnLeLGG8FeNGxCPlM4AfReA/)
 - [形のデザイン](https://am1.space/dat/design/design3-shape.pdf)
   - [Unityでモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/edit?usp=sharing
+- 前回のハイパーカジュアルゲーム案の共有
+  - 参考：[ぺんすら](https://docs.google.com/presentation/d/15EZB7gpFN0kpxiyKtEXwAnLeLGG8FeNGxCPlM4AfReA/)
 - 演習：企画の構想
   - これまで出した案や新しい企画を考えて、手持ちの企画として構想をまとめる
   - [企画構想書テンプレート](https://docs.google.com/document/d/1VtRoODgC0lQ9ch7H-Mcx0GqqLtVlkcAjQ7JxabvHKdM/)を開く
