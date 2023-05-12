@@ -15,7 +15,7 @@
 
 ### 予定
 - [形のデザイン](https://am1.space/dat/design/design3-shape.pdf)
-  - [Unityでモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/edit?usp=sharing
+  - [Unityでモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/edit?usp=sharing)
 - 前回のハイパーカジュアルゲーム案の共有
   - 参考：[ぺんすら](https://docs.google.com/presentation/d/15EZB7gpFN0kpxiyKtEXwAnLeLGG8FeNGxCPlM4AfReA/)
 - 演習：企画の構想
