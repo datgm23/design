@@ -11,14 +11,23 @@
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
-## 4回目(5/12)
+## 5回目(5/19)
 
 ### 予定
-- [形のデザイン](https://am1.space/dat/design/design3-shape.pdf)
-  - [レイアウト FOTORIA. 三分割法で写真の構図をバッチリ決定！イラストで撮影方法を解決](https://fotoria.net/ja/blog/bc/photo-shoot-techniques/sc/composition/ar/rule-of-thirds/)
-  - [Unityでモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/edit?usp=sharing)
+- [レイアウト FOTORIA. 三分割法で写真の構図をバッチリ決定！イラストで撮影方法を解決](https://fotoria.net/ja/blog/bc/photo-shoot-
 - 前回のハイパーカジュアルゲーム案の共有
   - 参考：[ぺんすら](https://docs.google.com/presentation/d/15EZB7gpFN0kpxiyKtEXwAnLeLGG8FeNGxCPlM4AfReA/)
+- 演習：企画の構想
+  - これまで出した案や新しい企画を考えて、手持ちの企画として構想をまとめる
+  - 参考 [投げ機企画構想書](https://am1tanaka.notion.site/7c8cab39bf27441fbf870704f208593e) / [VBirdOpen企画構想書](https://docs.google.com/document/d/1-6sB9m8iG1kSux1ovdeTRY5WTQ9BcGynHrTI-aQ_GAg/)
+
+
+## 4回目(5/12)
+
+### 内容
+- [形のデザイン](https://am1.space/dat/design/design3-shape.pdf)
+techniques/sc/composition/ar/rule-of-thirds/)
+  - [Unityでモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/edit?usp=sharing)
 - 演習：企画の構想
   - これまで出した案や新しい企画を考えて、手持ちの企画として構想をまとめる
   - [企画構想書テンプレート](https://docs.google.com/document/d/1VtRoODgC0lQ9ch7H-Mcx0GqqLtVlkcAjQ7JxabvHKdM/)を開く
