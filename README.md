@@ -21,9 +21,10 @@
   - 参考：[ぺんすら](https://docs.google.com/presentation/d/15EZB7gpFN0kpxiyKtEXwAnLeLGG8FeNGxCPlM4AfReA/)
 - 演習：企画の構想
   - これまで出した案や新しい企画を考えて、手持ちの企画として構想をまとめる
-  - 参考
-    - [投げ機企画構想書](https://am1tanaka.notion.site/7c8cab39bf27441fbf870704f208593e)
-    - [VBirdOpen企画構想書](https://docs.google.com/document/d/1-6sB9m8iG1kSux1ovdeTRY5WTQ9BcGynHrTI-aQ_GAg/)
+  - 参考の企画構想書
+    - [よけとる](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
+    - [投げ機](https://am1tanaka.notion.site/7c8cab39bf27441fbf870704f208593e)
+    - [VBirdOpen](https://docs.google.com/document/d/1-6sB9m8iG1kSux1ovdeTRY5WTQ9BcGynHrTI-aQ_GAg/)
 - 企画案共有
 
 ## 4回目(5/12)
