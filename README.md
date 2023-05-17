@@ -64,7 +64,7 @@ techniques/sc/composition/ar/rule-of-thirds/)
 1. 「#times_自分の名前」のチャンネルにCtrlキー + Vキーでスクリーンショットを貼り付けて、メッセージを送信する
 
 
-### 予定
+### 内容
 - GP1振り返り
 - [前回の振り返り](https://docs.google.com/document/d/1ItqVAv-e-dnThzUF1o-8xucq7l95gel6FF9-96kBkpo/)
 - 企画案の共有
