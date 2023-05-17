@@ -13,6 +13,9 @@
 
 ## 5回目(5/19)
 
+### 話題
+- [ゲームクリエイターズギルド. ゲームデザイナー濱村崇氏によるゲーム企画書講座シリーズを配信スタート！](https://game.creators-guild.com/g4c/24822/)
+
 ### 予定
 - [レイアウト FOTORIA. 三分割法で写真の構図をバッチリ決定！イラストで撮影方法を解決](https://fotoria.net/ja/blog/bc/photo-shoot-techniques/sc/composition/ar/rule-of-thirds/)
 - [色とUIのデザイン](http://am1.space/dat/design/design4-color.pdf)
