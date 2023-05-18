@@ -23,11 +23,17 @@
 - 過去企画の振り返り
   - 参考：[ぺんすら](https://docs.google.com/presentation/d/15EZB7gpFN0kpxiyKtEXwAnLeLGG8FeNGxCPlM4AfReA/)
 - 演習：企画の構想
+  - これまでの企画案の振り返り
   - これまで出した案や新しい企画を考えて、手持ちの企画として構想をまとめる
+    - [企画構想書テンプレート](https://docs.google.com/document/d/1VtRoODgC0lQ9ch7H-Mcx0GqqLtVlkcAjQ7JxabvHKdM/)を開く
+    - ファイルメニューから コピーを作成 を選択
+    - 適当なフォルダーの場所を選択して、コピーを作成 をクリック
+    - 以上でコピーしたドキュメントの各項目を記入していく
   - 参考の企画構想書
     - [よけとる](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
     - [VBirdOpen](https://docs.google.com/document/d/1-6sB9m8iG1kSux1ovdeTRY5WTQ9BcGynHrTI-aQ_GAg/)
 - 企画案共有
+- [Unityでモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/edit?usp=sharing)
 
 ## 4回目(5/12)
 
