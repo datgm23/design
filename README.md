@@ -29,6 +29,11 @@
     - ファイルメニューから コピーを作成 を選択
     - 適当なフォルダーの場所を選択して、コピーを作成 をクリック
     - 以上でコピーしたドキュメントの各項目を記入していく
+    - URLを提出
+      - 右上の 共有 をクリック
+      - リンクを知っている全員に変更 をクリック
+      - リンクをコピー を押してから 完了
+      - [こちら](https://docs.google.com/forms/d/e/1FAIpQLSe5OMfKZjLNLYv0U5BbUoH8vfAeRe069TZuiyLHYNjqp8wIJA/viewform?usp=sf_link)を開いて名前を入力して、共有URL欄に Ctrl+V でリンクを貼り付ける
   - 参考の企画構想書
     - [よけとる](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
     - [VBirdOpen](https://docs.google.com/document/d/1-6sB9m8iG1kSux1ovdeTRY5WTQ9BcGynHrTI-aQ_GAg/)
