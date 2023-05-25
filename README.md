@@ -21,7 +21,7 @@
   - [図](http://am1.space/dat/design/design5-font-fig.pdf)
 - 前回の企画構想書の振り返り
 - Unityでモックアップ作成-文字の表示-
-  - [TextMesh Proの使い方](https://docs.google.com/document/d/1XIBCeH27Os43a1epTxYArBBaRK8iTLLIgwG0m4FrUTA/)
+  - [TextMesh Proの使い方](https://am1.jp/tutorials/unity/tmpro/)
   - [2023年用、日本語のフリーフォント670種類のまとめ](https://coliss.com/articles/freebies/japanese-free-fonts.html)
   - [TextMeshPro向け　ASCIIコード＋JIS第1水準の文字](https://am1tanaka.hatenablog.com/entry/2019/10/14/183408)
 - 企画構想書向けのモックをUnityで作成
