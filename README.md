@@ -11,12 +11,29 @@
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
+## 7回目(6/2)
+
+### 話題
+- [電撃ファミニコゲーマー. 初代PSの伝説的タイトル『ガンパレード・マーチ』はなぜ生まれたのか？](https://news.denfaminicogamer.jp/projectbook/230526g)
+
+### 予定
+- [Unityのモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/)
+- [UnityのUI](https://docs.google.com/document/d/1oUDdWBGk2XUjAyt7RLHL2a1shBwrZp-ghrOb4wzGddk/)
+- [ProBuilder](https://docs.google.com/document/d/129pS_YQPJq3srmxEqCDMUX8a9aqGGnTy0OzaEPsajXU/)
+- 企画構想書向けのモックアップをUnityで作成
+  - [ぺんすら](https://docs.google.com/document/d/1p8KwwkYZoE97jqj6op_81dyfEphAEnGZ3YdYsJwF14k/)
+  - [よけとる](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
+  - [VBirdOpen](https://docs.google.com/document/d/1-6sB9m8iG1kSux1ovdeTRY5WTQ9BcGynHrTI-aQ_GAg/)
+  - [企画構想書テンプレート](https://docs.google.com/document/d/1VtRoODgC0lQ9ch7H-Mcx0GqqLtVlkcAjQ7JxabvHKdM/)を開く
+
+
+
 ## 6回目(5/26)
 
 ### 話題
 - [Unity1週間ゲームジャム](https://twitter.com/naichilab/status/1659879548283162624) 6/19(月) 0:00から
 
-### 予定
+### 内容
 - [文字のデザイン](http://am1.space/dat/design/design5-font.pdf)
   - [図](http://am1.space/dat/design/design5-font-fig.pdf)
 - 前回の企画構想書の振り返り
