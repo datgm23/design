@@ -20,7 +20,7 @@
 - [文字のデザイン](http://am1.space/dat/design/design5-font.pdf)
   - [図](http://am1.space/dat/design/design5-font-fig.pdf)
 - 前回の企画構想書の振り返り
-  - [ぺんすら](https://docs.google.com/presentation/d/15EZB7gpFN0kpxiyKtEXwAnLeLGG8FeNGxCPlM4AfReA/)
+  - [ぺんすら](https://docs.google.com/document/d/1p8KwwkYZoE97jqj6op_81dyfEphAEnGZ3YdYsJwF14k/)
   - [よけとる](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
   - [VBirdOpen](https://docs.google.com/document/d/1-6sB9m8iG1kSux1ovdeTRY5WTQ9BcGynHrTI-aQ_GAg/)
   - [企画構想書テンプレート](https://docs.google.com/document/d/1VtRoODgC0lQ9ch7H-Mcx0GqqLtVlkcAjQ7JxabvHKdM/)を開く
