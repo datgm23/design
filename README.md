@@ -17,6 +17,7 @@
 - [電撃ファミニコゲーマー. 初代PSの伝説的タイトル『ガンパレード・マーチ』はなぜ生まれたのか？](https://news.denfaminicogamer.jp/projectbook/230526g)
 
 ### 予定
+#### 1コマ目
 - [Unityのモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/)
 - [UnityのUI](https://docs.google.com/document/d/1oUDdWBGk2XUjAyt7RLHL2a1shBwrZp-ghrOb4wzGddk/)
 - [ProBuilder](https://docs.google.com/document/d/129pS_YQPJq3srmxEqCDMUX8a9aqGGnTy0OzaEPsajXU/)
@@ -26,6 +27,8 @@
   - [VBirdOpen](https://docs.google.com/document/d/1-6sB9m8iG1kSux1ovdeTRY5WTQ9BcGynHrTI-aQ_GAg/)
   - [企画構想書テンプレート](https://docs.google.com/document/d/1VtRoODgC0lQ9ch7H-Mcx0GqqLtVlkcAjQ7JxabvHKdM/)を開く
 
+#### 2コマ目
+- [paizaの準備](https://docs.google.com/document/d/1R_2RpgenKHdM7XPX9YjDXxZExyY1-srDI_Nnrw9tJeA/)
 
 
 ## 6回目(5/26)
