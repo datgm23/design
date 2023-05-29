@@ -18,7 +18,7 @@
 
 ### 予定
 #### 1コマ目
-- [Unityのモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/)
+- [Unityのモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/)の残り
 - [UnityのUI](https://docs.google.com/document/d/1oUDdWBGk2XUjAyt7RLHL2a1shBwrZp-ghrOb4wzGddk/)
 - [ProBuilder](https://docs.google.com/document/d/129pS_YQPJq3srmxEqCDMUX8a9aqGGnTy0OzaEPsajXU/)
 - 企画構想書向けのモックアップをUnityで作成
