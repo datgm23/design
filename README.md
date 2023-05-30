@@ -15,6 +15,8 @@
 
 ### 話題
 - [電撃ファミニコゲーマー. 初代PSの伝説的タイトル『ガンパレード・マーチ』はなぜ生まれたのか？](https://news.denfaminicogamer.jp/projectbook/230526g)
+- [Coliss. Google Fontsにかわいい日本語フォントが大量に追加](https://twitter.com/colisscom/status/1662981277778350080)
+
 
 ### 予定
 #### 1コマ目
