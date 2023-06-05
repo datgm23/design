@@ -13,6 +13,11 @@
 
 ## 8回目(6/9)
 
+### 次回予告
+- 数学小テスト(40分)
+  - 試験範囲：中学数学全般(文字式、方程式、図形、グラフ、確率、多項式、平方根など)
+  - 筆記用具を持ってくること
+
 ### 内容
 - 前回の復習
   - [Unityのモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/)の残り
