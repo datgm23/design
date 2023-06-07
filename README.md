@@ -14,7 +14,7 @@
 ## 8回目(6/9)
 
 ### 話題
-- [ワンデイゲームジャム](https://casual-games.kayac.com/) 7/1(土)
+- [ワンデイゲームジャム](https://casual-games.kayac.com/) 7/1(土) 8:00-23:00
 - [Unity1週間ゲームジャム](https://twitter.com/naichilab/status/1659879548283162624) 6/19(月) 0:00から
 
 
