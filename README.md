@@ -11,6 +11,14 @@
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
+## 9回目(6/16)
+
+### 予定
+- [著作権概論](https://docs.google.com/document/d/15zRG0hcf9OU3TFoJ5vZL43AGPKCqewpD7KS_QYwntaA/)
+- 素材の利用
+- 数学小テスト(40分)
+
+
 ## 8回目(6/9)
 
 ### 話題
