@@ -16,6 +16,9 @@
 ### 予定
 - [著作権概論](https://docs.google.com/document/d/15zRG0hcf9OU3TFoJ5vZL43AGPKCqewpD7KS_QYwntaA/)
 - 素材の利用
+  - SkyboxのAI作成サービス [Blockade Labs](https://www.blockadelabs.com/)
+    - 作成したJPEG画像をダウンロードして、Unityに読み込んだら、Materialを作成して、シェーダーをSkybox > Panoramicにして画像を設定する
+    - 作成したマテリアルを、Window > Rendering > Lighting を選択して、EnvironmentのSkybox Materialに設定
 - 数学小テスト(40分)
 
 
