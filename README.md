@@ -11,9 +11,18 @@
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
-## 9回目(6/16)
+## 10回目(6/23)
 
 ### 予定
+- 前回の小テストの回答解説
+- 習作ゲーム「よけとる」の企画と仕様
+  - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
+  - [よけとる](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
+- よけとるのモックアップの作成
+
+## 9回目(6/16)
+
+### 内容
 - [著作権概論](https://docs.google.com/document/d/15zRG0hcf9OU3TFoJ5vZL43AGPKCqewpD7KS_QYwntaA/)
 - 素材の利用
   - SkyboxのAI作成サービス [Blockade Labs](https://www.blockadelabs.com/)
