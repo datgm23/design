@@ -17,11 +17,11 @@
 - [学生向けゲーム企画書コンテスト「ゲームアイデアコンテスト2023」開催！](https://game.creators-guild.com/g4c/25175/?utm_content=253105567)
 
 ### 予定
-- 前回の小テストの回答解説
 - 習作ゲーム「よけとる」の企画と仕様
   - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
   - [よけとる](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
-- よけとるのモックアップの作成
+- よけとるのモックアップの作成(先週の欠席者は数学の小テスト)
+- 前回の小テストの回答解説
 
 ## 9回目(6/16)
 
