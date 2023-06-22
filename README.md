@@ -19,7 +19,7 @@
 ### 予定
 - 習作ゲーム「よけとる」の企画と仕様
   - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
-  - [よけとる](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
+  - [よけとる企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
 - よけとるのモックアップの作成(先週の欠席者は数学の小テスト)
 - 前回の小テストの回答解説
 
