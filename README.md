@@ -11,6 +11,12 @@
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
+## 11回目(6/30)
+
+### 予定
+- 習作ゲーム「よけとる」の素材集めとモック画面作成
+- 作成したモック画面のスクリーンショットをSlackの自分のチャンネル(#times_自分の名前)に貼り付けて送信する
+
 ## 10回目(6/23)
 
 ### 話題
