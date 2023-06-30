@@ -21,6 +21,7 @@
 - 習作ゲーム「よけとる」の素材集めとモック画面作成
   - [素材リスト](https://docs.google.com/document/d/1jG55JBt66CVDBo8DmrLqCd7bnXH700PUSmkFwVCZzuk/)
 - 作成したモック画面のスクリーンショットをSlackの自分のチャンネル(#times_自分の名前)に貼り付けて送信する
+- 読み込むモデルの形式はFBXがあればそれを利用
 
 ## 10回目(6/23)
 
