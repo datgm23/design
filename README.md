@@ -17,6 +17,7 @@
 - 習作ゲーム「よけとる」の企画と仕様
   - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
   - [よけとる企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
+  - [よけとる改仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
 - 習作ゲーム「よけとる」の素材集めとモック画面作成
 - 作成したモック画面のスクリーンショットをSlackの自分のチャンネル(#times_自分の名前)に貼り付けて送信する
 
