@@ -14,6 +14,9 @@
 ## 11回目(6/30)
 
 ### 予定
+- 習作ゲーム「よけとる」の企画と仕様
+  - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
+  - [よけとる企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
 - 習作ゲーム「よけとる」の素材集めとモック画面作成
 - 作成したモック画面のスクリーンショットをSlackの自分のチャンネル(#times_自分の名前)に貼り付けて送信する
 
@@ -23,9 +26,6 @@
 - [学生向けゲーム企画書コンテスト「ゲームアイデアコンテスト2023」開催！](https://game.creators-guild.com/g4c/25175/?utm_content=253105567)
 
 ### 予定
-- 習作ゲーム「よけとる」の企画と仕様
-  - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
-  - [よけとる企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
 - よけとるのモックアップの作成(先週の欠席者は数学の小テスト)
   - Unityの新しいプロジェクトを作る。名前は任意(`Yoketoru`など)。日本語は禁止
   - GitHubにコミットして、privateのままパブリッシュ
