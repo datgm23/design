@@ -11,9 +11,16 @@
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
-## 11回目(6/30)
+## 12回目(7/7)
 
 ### 予定
+- 習作ゲーム「よけとる」のシーン遷移、BGMと効果音
+  - [素材リスト](https://docs.google.com/document/d/1jG55JBt66CVDBo8DmrLqCd7bnXH700PUSmkFwVCZzuk/)
+
+
+## 11回目(6/30)
+
+### 内容
 - 習作ゲーム「よけとる」の企画と仕様
   - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
   - [よけとる企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
