@@ -17,8 +17,12 @@
 - 習作ゲーム「よけとる」のシーン遷移、BGMと効果音
   - [素材リスト](https://docs.google.com/document/d/1jG55JBt66CVDBo8DmrLqCd7bnXH700PUSmkFwVCZzuk/)
   - [00よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/)
+    - 仮の音源データ `Z:\2023\student\gp1\Audio`
   - [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/)
-- ※Gitへの登録ができていない人が混じっているので、コミットなどの手順はできる人向けで、できていない人はやらなくてよい
+
+※Gitへの登録ができていない人が混じっているので、コミットなどの手順はできる人向けで、できていない人はやらなくてよい
+
+
 
 ## 11回目(6/30)
 
