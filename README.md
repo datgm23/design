@@ -17,6 +17,8 @@
 - 習作ゲーム「よけとる」のシーン遷移から
   - [素材リスト](https://docs.google.com/document/d/1jG55JBt66CVDBo8DmrLqCd7bnXH700PUSmkFwVCZzuk/)
   - [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/)
+- [Unityのアニメーション](https://docs.google.com/document/d/1TSYwJRlmwFLufuDN7bT1jhf4M9AEYWgyK7dw1N3k2nQ/)
+- [PostProcessing Stack V2を使う](https://am1tanaka.hatenablog.com/entry/2018/05/19/172121)
 
 ## 12回目(7/7)
 
