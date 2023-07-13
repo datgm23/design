@@ -14,8 +14,8 @@
 ## 13回目(7/14)
 
 ### 予定
-- [Unityのアニメーション](https://docs.google.com/document/d/1TSYwJRlmwFLufuDN7bT1jhf4M9AEYWgyK7dw1N3k2nQ/)
 - [PostProcessing Stack V2を使う](https://am1tanaka.hatenablog.com/entry/2018/05/19/172121)
+- [Unityのアニメーション](https://docs.google.com/document/d/1TSYwJRlmwFLufuDN7bT1jhf4M9AEYWgyK7dw1N3k2nQ/)
 
 ### 時間があれば
 - [はじめての設計](https://docs.google.com/document/d/1HFigMkay7LbT0n59_XQXdO5ThhtVhRl_9liCVSOm6c4/)
