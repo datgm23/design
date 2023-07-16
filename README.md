@@ -11,20 +11,40 @@
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
-## 13回目(7/14)
+## 14回目(7/21)
 
 ### 予定
+- 復習
+  - [企画構想書テンプレート](https://docs.google.com/document/d/1VtRoODgC0lQ9ch7H-Mcx0GqqLtVlkcAjQ7JxabvHKdM/)を開く
+  - [Unityのモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/)の残り
+  - [ProBuilder](https://docs.google.com/document/d/129pS_YQPJq3srmxEqCDMUX8a9aqGGnTy0OzaEPsajXU/)
+  - [UnityのUI](https://docs.google.com/document/d/1oUDdWBGk2XUjAyt7RLHL2a1shBwrZp-ghrOb4wzGddk/)
+  - [ポストプロセッシング](https://docs.google.com/document/d/1PhYwUOJd5xHd2JtDEFSgeMRXTd7xlZ3Nv3ANUAR9rn0/edit#heading=h.wxu06ozcclaa)
+  - [Unityのアニメーション](https://docs.google.com/document/d/1TSYwJRlmwFLufuDN7bT1jhf4M9AEYWgyK7dw1N3k2nQ/)
+- 夏休み課題
+
+### 夏休み課題(ゲームデザイン共通)
+以下のうち１つを選んで、夏休み中に完成させて、プロジェクトと実行ファイル一式を提出する。
+
+- 選択肢１　Unityの教科書の改造
+  - 4章以降のサンプルを完成させる
+  - プログラムの変更が伴うアレンジを１つ以上考えて、アレンジ版を作成する
+  - OK例　新しいアイテムを追加 / 新しい敵を追加 / 新しい操作を追加
+  - NG例　絵の差し替えのみ / アニメの変更のみ
+- 選択肢２　オリジナルゲームを完成させる
+  - 自分で考えた企画を完成させる
+  - 使用するツールは学校で使えるものなら自由(Unity, UE, GDevelop, ティラノスクリプト, Light.vnなど)
+- 選択肢３　ネット上で見つけたチュートリアルの改造
+  - ネット上でブログなどで紹介されている作品を完成させる
+  - 選択肢1と同じくプログラムの改変を伴う改造をする
+
+
+## 13回目(7/14)
+
+### 内容
 - [PostProcessing Stack V2を使う](https://am1tanaka.hatenablog.com/entry/2018/05/19/172121)
   - [ポストプロセッシング](https://docs.google.com/document/d/1PhYwUOJd5xHd2JtDEFSgeMRXTd7xlZ3Nv3ANUAR9rn0/edit#heading=h.wxu06ozcclaa)
 - [Unityのアニメーション](https://docs.google.com/document/d/1TSYwJRlmwFLufuDN7bT1jhf4M9AEYWgyK7dw1N3k2nQ/)
-
-### 時間があれば
-- [はじめての設計](https://docs.google.com/document/d/1HFigMkay7LbT0n59_XQXdO5ThhtVhRl_9liCVSOm6c4/)
-- よけとるUnityの開発
-  - [よけとるUnity企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
-  - [よけとるUnity仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
-  - [00よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/)に従って、もう一度プロジェクトを作り直す。プロジェクト名は`Yoketoru2023dev`
-  - 指示に従ってプロジェクトを作成して、GitHubにパブリッシュ。教員をメンバーに追加する
 
 
 ## 12回目(7/7)
@@ -58,7 +78,7 @@
 ### 話題
 - [学生向けゲーム企画書コンテスト「ゲームアイデアコンテスト2023」開催！](https://game.creators-guild.com/g4c/25175/?utm_content=253105567)
 
-### 予定
+### 内容
 - よけとるのモックアップの作成(先週の欠席者は数学の小テスト)
   - Unityの新しいプロジェクトを作る。名前は任意(`Yoketoru`など)。日本語は禁止
   - GitHubにコミットして、privateのままパブリッシュ
