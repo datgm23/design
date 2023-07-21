@@ -11,9 +11,15 @@
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
-## 14回目(7/21)
+## 15回目(9/1)
 
 ### 予定
+- 夏休み課題発表
+
+
+## 14回目(7/21)
+
+### 内容
 - 復習
   - [企画構想書テンプレート](https://docs.google.com/document/d/1VtRoODgC0lQ9ch7H-Mcx0GqqLtVlkcAjQ7JxabvHKdM/)
   - [Unityのモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/)
