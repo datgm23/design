@@ -11,9 +11,16 @@
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
+## 16回目(9/8)
+- 夏休み課題とりまとめ
+- DATフェスタチーム
+- 案の検討と共有
+  - [企画構想書テンプレート](https://docs.google.com/document/d/1VtRoODgC0lQ9ch7H-Mcx0GqqLtVlkcAjQ7JxabvHKdM/)
+  - テーマ、コンセプトを検討
+
 ## 15回目(9/1)
 
-### 予定
+### 内容
 - 夏休み課題の発表と提出
 - 夏休み課題のREADME.txtの作成とスクリーンショット、プロジェクト、実行ファイル(あれば)の提出
   - [作例](https://github.com/datgm22/gp1/blob/main/sample_README.txt)
