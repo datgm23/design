@@ -20,7 +20,7 @@
 
 ### 予定
 - 夏休み課題とりまとめ
-- DATフェスタ チームと座席
+- DATフェスタ [チームと座席](https://docs.google.com/spreadsheets/d/1MjS6r0zExiI0kuczW0lzVBVSeWSUhBdtGgjyseeui6E/)
 - 案の検討と共有
   - [企画構想書テンプレート](https://docs.google.com/document/d/1VtRoODgC0lQ9ch7H-Mcx0GqqLtVlkcAjQ7JxabvHKdM/)
   - テーマ、コンセプトを検討
