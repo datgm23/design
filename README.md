@@ -12,8 +12,15 @@
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
 ## 16回目(9/8)
+
+### 話題
+- [1週間ゲームジャム](https://unityroom.com/unity1weeks)が9/18から開催
+- [RAPTEX](https://raptex.jp/)
+- [Mind Render](https://mindrender.jp/)
+
+### 予定
 - 夏休み課題とりまとめ
-- DATフェスタチーム
+- DATフェスタ チームと座席
 - 案の検討と共有
   - [企画構想書テンプレート](https://docs.google.com/document/d/1VtRoODgC0lQ9ch7H-Mcx0GqqLtVlkcAjQ7JxabvHKdM/)
   - テーマ、コンセプトを検討
