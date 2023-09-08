@@ -32,6 +32,7 @@
   - テーマ、コンセプトの案出し。今日は案を出すだけでまとめなくてよい！
   - 各々がやりたいこと、興味があることを共有する
   - [企画構想書テンプレート](https://docs.google.com/document/d/1VtRoODgC0lQ9ch7H-Mcx0GqqLtVlkcAjQ7JxabvHKdM/)
+- [ざっくり神話論](https://docs.google.com/document/d/1KDd4TfXnJoiMtMsr-B9Vym79jifhO_Ah6puKxOnwK-w/)
 
 ## 15回目(9/1)
 
