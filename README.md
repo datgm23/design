@@ -22,8 +22,6 @@
 
 ### 話題
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks)が9/18から開催
-- [RAPTEX](https://raptex.jp/)
-- [Mind Render](https://mindrender.jp/)
 
 ### 予定
 - 夏休み課題とりまとめ
