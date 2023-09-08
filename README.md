@@ -28,8 +28,10 @@
 - 夏休み課題とりまとめ
 - DATフェスタ [チームと座席](https://docs.google.com/spreadsheets/d/1MjS6r0zExiI0kuczW0lzVBVSeWSUhBdtGgjyseeui6E/)
 - 案の検討と共有
+  - チーム連絡網の作成
+  - テーマ、コンセプトの案出し。今日は案を出すだけでまとめなくてよい！
+  - 各々がやりたいこと、興味があることを共有する
   - [企画構想書テンプレート](https://docs.google.com/document/d/1VtRoODgC0lQ9ch7H-Mcx0GqqLtVlkcAjQ7JxabvHKdM/)
-  - テーマ、コンセプトを検討
 
 ## 15回目(9/1)
 
