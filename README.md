@@ -11,6 +11,13 @@
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
+## 自習可能なゲームエンジン
+- [ティラノビルダー](https://b.tyrano.jp/)
+- [ティラノスクリプト](https://tyrano.jp/)
+- [Mind Render](https://mindrender.jp/)
+- [RAPTEX](https://raptex.jp/)
+- [GDevelop](https://gdevelop.io/ja-jp)
+
 ## 16回目(9/8)
 
 ### 話題
