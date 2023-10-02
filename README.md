@@ -19,12 +19,18 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
+## 後期1回目(10/6)
+
+### 予定
+- DATフェスタ企画の検討と共有
+- 仕様と作業リスト作成
+
 ## 16回目(9/8)
 
 ### 話題
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks)が9/18から開催
 
-### 予定
+### 内容
 - 夏休み課題とりまとめ
 - DATフェスタ [チームと座席](https://docs.google.com/spreadsheets/d/1MjS6r0zExiI0kuczW0lzVBVSeWSUhBdtGgjyseeui6E/)
 - 案の検討と共有
