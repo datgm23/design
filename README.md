@@ -23,7 +23,8 @@
 - [よけとる企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
 - [よことる仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
 
-## 後期2回目(10/13)
+
+## 後期3回目
 
 ### 進捗共有
 - [紅葉と侍（仮）](https://docs.google.com/document/d/1_si36QjOkuL3FDZR9hMD0juYDOXz8Zxzx6qocLtUjTw/)
@@ -33,6 +34,17 @@
 - [GDevelop](https://docs.google.com/document/d/1qRKQe6Xt_ToK_QL57dOJgfgx60Ysy_Dpg7dFL4kd3AQ/)
 
 ### 予定
+- 作業割り当て
+  - Googleドキュメントを作成
+  - 共有URLを報告
+  - チェックリストで作業項目を箇条書きで作成
+  - 担当者を割り振り
+- 作業の共有
+
+
+## 後期2回目(10/13)
+
+### 内容
 - 目標：企画内容の確定
   - 企画概要書を埋める
   - 状態遷移図、各状態の画面イメージを作る
@@ -44,15 +56,6 @@
   - チェックリストで作業項目を箇条書きで作成
   - 担当者を割り振り
 - 作業
-
-
-## 後期3回目予定
-- 作業割り当て
-  - Googleドキュメントを作成
-  - 共有URLを報告
-  - チェックリストで作業項目を箇条書きで作成
-  - 担当者を割り振り
-- 作業の報告
 
 
 ## 後期1回目(10/6)
