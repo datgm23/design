@@ -36,7 +36,7 @@
 ### 予定
 - 作業割り当て
   - Googleドキュメントを作成
-  - 共有URLを報告
+  - 共有URLを[こちら](https://docs.google.com/forms/d/e/1FAIpQLSe5OMfKZjLNLYv0U5BbUoH8vfAeRe069TZuiyLHYNjqp8wIJA/viewform?usp=sf_link)から報告
   - チェックリストで作業項目を箇条書きで作成
   - 担当者を割り振り
 - 作業の共有
