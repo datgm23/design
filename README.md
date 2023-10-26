@@ -24,7 +24,7 @@
 - [よことる仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
 
 
-## 後期3回目
+## 後期3, 4回目
 
 ### 進捗共有
 - [紅葉と侍（仮）](https://docs.google.com/document/d/1_si36QjOkuL3FDZR9hMD0juYDOXz8Zxzx6qocLtUjTw/)
@@ -40,6 +40,17 @@
   - チェックリストで作業項目を箇条書きで作成
   - 担当者を割り振り
 - 作業の共有
+- [インストラクションカードとは](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%89)
+  - [例](https://www.google.com/search?q=%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0+%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj4_tjW6tXzAhVFeXAKHTSpBNcQ_AUoAXoECAEQAw&biw=1035&bih=891&dpr=1)
+  - A4カラー 1ページ
+  - ゲームタイトル、ゲーム概要、操作説明、ルール、開発メンバークレジットを書く
+  - PowerPointを使う場合、以下でA4の縦方向に設定
+    - デザインタブに切り替え
+    - スライドのサイズから、ユーザー設定のスライドのサイズを選択
+    - スライドのサイズ指定をA4、印刷の向きをスライドの縦を選択してOK
+- 実行ファイルをビルドして、以下の要領でコピーしておく
+  - `X:\2023年\ゲーム学科\gp1\DATフェスタ実行ファイル` の中に作品名のフォルダーを作成して、その中にビルドした実行ファイルをコピーする
+  - ビルドができない場合は、プロジェクトフォルダーまるごとでよい
 
 
 ## 後期2回目(10/13)
