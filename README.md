@@ -34,7 +34,9 @@
 - [GDevelop](https://docs.google.com/document/d/1qRKQe6Xt_ToK_QL57dOJgfgx60Ysy_Dpg7dFL4kd3AQ/)
 
 ### 予定
-- 作業の共有
+- 作業
+  - GetAxisをGetAxisRawに変更する
+  - テストプレイと気になったところの通知
 - [インストラクションカードとは](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%89)
   - [例](https://www.google.com/search?q=%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0+%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj4_tjW6tXzAhVFeXAKHTSpBNcQ_AUoAXoECAEQAw&biw=1035&bih=891&dpr=1)
   - A4カラー 1ページ
