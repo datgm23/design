@@ -23,6 +23,11 @@
 - [よけとる企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
 - [よことる仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
 
+## 後期5回目(11/17)
+
+### 予定
+- 各作品について挙がった改善案を検討する
+
 
 ## 後期3, 4回目
 
@@ -33,7 +38,7 @@
 - [Neon Night Warrior](https://docs.google.com/document/d/1965kXP5tI7HNVqaUS6Vp2uAgQKELfW6VwN06HoEkFhY/)
 - [GDevelop](https://docs.google.com/document/d/1qRKQe6Xt_ToK_QL57dOJgfgx60Ysy_Dpg7dFL4kd3AQ/)
 
-### 予定
+### 内容
 - 作業
   - GetAxisをGetAxisRawに変更する
   - テストプレイと気になったところの通知
