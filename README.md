@@ -28,7 +28,7 @@
 ### 予定
 - 各作品について挙がった改善案を検討する
   - [講師のコメント](https://docs.google.com/document/d/1ZVvoFxoPCZ3_aV88VLQNcoNBp-GD0rHUF6C5uebu8g4/)
-
+  - [悪魔のサーカス再開発](https://docs.google.com/document/d/1G-CctzdZjEPXMe1v1NF_tYoF8T6VFoTWd5ULW_NkKWc/)
 
 ## 後期3, 4回目
 
