@@ -10,6 +10,7 @@
 - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
+- [シェーダーの基礎 The Book of Shaders](https://thebookofshaders.com/?lan=jp)
 
 ## 自習可能なゲームエンジン
 - [ティラノビルダー](https://b.tyrano.jp/)
@@ -21,11 +22,23 @@
 
 ## 企画作例
 - [よけとる企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
-- [よことる仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
+- [よけとる仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
+
+## 後期6回目(11/24)
+
+### 話題
+- [シェーダーの基礎 The Book of Shaders](https://thebookofshaders.com/?lan=jp)
+
+### 予定
+- 各作品について挙がった改善案を検討する
+  - [講師のコメント](https://docs.google.com/document/d/1ZVvoFxoPCZ3_aV88VLQNcoNBp-GD0rHUF6C5uebu8g4/)
+  - [悪魔のサーカス再開発](https://docs.google.com/document/d/1G-CctzdZjEPXMe1v1NF_tYoF8T6VFoTWd5ULW_NkKWc/)
+- [ウディコン](https://silversecond.com/WolfRPGEditor/Contest/) 応募期間：2024/7/14(日)-2024/7/20(土)
+
 
 ## 後期5回目(11/17)
 
-### 予定
+### 内容
 - 各作品について挙がった改善案を検討する
   - [講師のコメント](https://docs.google.com/document/d/1ZVvoFxoPCZ3_aV88VLQNcoNBp-GD0rHUF6C5uebu8g4/)
   - [悪魔のサーカス再開発](https://docs.google.com/document/d/1G-CctzdZjEPXMe1v1NF_tYoF8T6VFoTWd5ULW_NkKWc/)
