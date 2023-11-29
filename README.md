@@ -1,6 +1,6 @@
 # ゲームデザイン実習(2023年度入学生)
 
-- [シラバス](https://drive.google.com/file/d/11XRL_izyftGeOeCNQ9j3GtPYgK4v1URV/view?usp=sharing)
+- [シラバス](https://drive.google.com/file/d/11XRL_izyftGeOeCNQ9j3GtPYgK4v1URV/)
 - [Google Meet](https://meet.google.com/bwb-njcm-udh)
 - [Slack](https://datgm23.slack.com)
 - [金曜 講義日程](fri.md)
@@ -24,12 +24,30 @@
 - [よけとる企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
 - [よけとる仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
 
+## 後期7回目(12/1)
+
+### 話題
+- [テトラポッド葉山. 【日本語訳】レベルデザイン～より良いレベルを求めて～](https://my-syumi-game.notion.site/my-syumi-game/78aeea083db140de96616e2cc6b089ce)
+
+### 予定
+- [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
+  - ポートフォリオとは何か、作る際に最初にやること、などを確認
+    - [paizaラーニング. ITエンジニアの就活準備編2: ポートフォリオ制作 ＃01:Webページを作ろう](https://paiza.jp/works/career/primer/career2/8010)
+    - [ゲームクリエイターズギルド. ポートフォリオは自分ブランディング！見せ方を設計しよう【ゲーム業界就活】](https://game.creators-guild.com/g4c/shukatsu-20210215)
+  - ポートフォリオの例
+    - [Chomado's Portfolio(ちょまど)](https://chomado.com/chomado/)
+    - [この講義の作例](https://github.com/tanakaedu/portfolio-with-markdown/blob/main/portfolio-example.md)
+- 各作品について挙がった改善案を検討する
+  - [講師のコメント](https://docs.google.com/document/d/1ZVvoFxoPCZ3_aV88VLQNcoNBp-GD0rHUF6C5uebu8g4/)
+  - [悪魔のサーカス再開発](https://docs.google.com/document/d/1G-CctzdZjEPXMe1v1NF_tYoF8T6VFoTWd5ULW_NkKWc/)
+- [ウディコン](https://silversecond.com/WolfRPGEditor/Contest/) 応募期間：2024/7/14(日)-2024/7/20(土)
+
 ## 後期6回目(11/24)
 
 ### 話題
 - [シェーダーの基礎 The Book of Shaders](https://thebookofshaders.com/?lan=jp)
 
-### 予定
+### 内容
 - 各作品について挙がった改善案を検討する
   - [講師のコメント](https://docs.google.com/document/d/1ZVvoFxoPCZ3_aV88VLQNcoNBp-GD0rHUF6C5uebu8g4/)
   - [悪魔のサーカス再開発](https://docs.google.com/document/d/1G-CctzdZjEPXMe1v1NF_tYoF8T6VFoTWd5ULW_NkKWc/)
