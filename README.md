@@ -28,6 +28,7 @@
 
 ### 話題
 - [テトラポッド葉山. 【日本語訳】レベルデザイン～より良いレベルを求めて～](https://my-syumi-game.notion.site/my-syumi-game/78aeea083db140de96616e2cc6b089ce)
+- [GB Studio](https://www.gbstudio.dev/)
 
 ### 予定
 - [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
