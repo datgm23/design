@@ -43,6 +43,8 @@
   - [講師のコメント](https://docs.google.com/document/d/1ZVvoFxoPCZ3_aV88VLQNcoNBp-GD0rHUF6C5uebu8g4/)
   - [悪魔のサーカス再開発](https://docs.google.com/document/d/1G-CctzdZjEPXMe1v1NF_tYoF8T6VFoTWd5ULW_NkKWc/)
 - [ウディコン](https://silversecond.com/WolfRPGEditor/Contest/) 応募期間：2024/7/14(日)-2024/7/20(土)
+- [Unityのシェーダープログラミング](https://docs.google.com/document/d/1JhDpRetPQ4bp_bKkyINdS1fSpRqoPNfE7gFxR2uL2tc/)
+  - [Unity Learning Material. シェーダー](https://learning.unity3d.jp/tag/shader/) URPはShader Graphで
 
 ## 後期6回目(11/24)
 
