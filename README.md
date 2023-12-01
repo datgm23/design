@@ -38,7 +38,8 @@
     - [ゲームクリエイターズギルド. ポートフォリオは自分ブランディング！見せ方を設計しよう【ゲーム業界就活】](https://game.creators-guild.com/g4c/shukatsu-20210215)
   - ポートフォリオの例
     - [Chomado's Portfolio(ちょまど)](https://chomado.com/chomado/)
-    - [この講義の作例](https://github.com/tanakaedu/portfolio-with-markdown/blob/main/portfolio-example.md)
+    - [過去の講義の作例](https://github.com/tanakaedu/portfolio-with-markdown/blob/main/portfolio-example.md)
+    - [2023年度の作例](https://github.com/datgm23/portfolio)
 - 各作品について挙がった改善案を検討する
   - [講師のコメント](https://docs.google.com/document/d/1ZVvoFxoPCZ3_aV88VLQNcoNBp-GD0rHUF6C5uebu8g4/)
   - [悪魔のサーカス再開発](https://docs.google.com/document/d/1G-CctzdZjEPXMe1v1NF_tYoF8T6VFoTWd5ULW_NkKWc/)
