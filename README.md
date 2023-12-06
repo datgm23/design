@@ -24,6 +24,17 @@
 - [よけとる企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
 - [よけとる仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
 
+## 後期8回目(12/8)
+
+### 話題
+- [1週間ゲームジャム](https://unityroom.com/unity1weeks)が12/18から開催
+- [unity1week Team-Up!!　はじめました](https://note.com/metaformingpro/n/n200ae566e501)
+- [unityroomのスコアランキング機能の実装方法](https://unityroom-help.notion.site/4fae458305a948818b90e50dcad6a3f3)
+
+### 予定
+- 1週間ゲームジャム向けの技術調査
+- [Unity1週間ゲームジャム12月](https://docs.google.com/document/d/1s14VSICyNxxBKNxcswlGlitX1P0MV1SW8mUa_Vm3OfY/)の方針
+
 ## 後期7回目(12/1)
 
 ### 話題
