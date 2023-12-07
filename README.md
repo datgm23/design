@@ -32,6 +32,12 @@
 - [unityroomのスコアランキング機能の実装方法](https://unityroom-help.notion.site/4fae458305a948818b90e50dcad6a3f3)
 
 ### 予定
+- [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
+  - 前回の復習とポートフォリオページの作りこみ
+  - ポートフォリオの例
+    - [Chomado's Portfolio(ちょまど)](https://chomado.com/chomado/)
+    - [過去の講義の作例](https://github.com/tanakaedu/portfolio-with-markdown/blob/main/portfolio-example.md)
+    - [2023年度の作例](https://github.com/datgm23/portfolio)
 - 1週間ゲームジャム向けの技術調査
 - [Unity1週間ゲームジャム12月](https://docs.google.com/document/d/1s14VSICyNxxBKNxcswlGlitX1P0MV1SW8mUa_Vm3OfY/)の方針
 
@@ -42,7 +48,7 @@
 - [GB Studio](https://www.gbstudio.dev/)
 - [celestialmaze. x shader](https://twitter.com/cmzw_/status/1729860575025668251)
 
-### 予定
+### 内容
 - [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
   - ポートフォリオとは何か、作る際に最初にやること、などを確認
     - [paizaラーニング. ITエンジニアの就活準備編2: ポートフォリオ制作 ＃01:Webページを作ろう](https://paiza.jp/works/career/primer/career2/8010)
