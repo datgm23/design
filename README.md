@@ -36,8 +36,8 @@
   - 前回の復習とポートフォリオページの作りこみ
   - ポートフォリオの例
     - [Chomado's Portfolio(ちょまど)](https://chomado.com/chomado/)
+    - [2023年度の作例](https://datgm23.github.io/portfolio/) / [リポジトリ](https://github.com/datgm23/portfolio)
     - [過去の講義の作例](https://github.com/tanakaedu/portfolio-with-markdown/blob/main/portfolio-example.md)
-    - [2023年度の作例](https://github.com/datgm23/portfolio)
 - 1週間ゲームジャム向けの技術調査
 - [Unity1週間ゲームジャム12月](https://docs.google.com/document/d/1s14VSICyNxxBKNxcswlGlitX1P0MV1SW8mUa_Vm3OfY/)の方針
 
