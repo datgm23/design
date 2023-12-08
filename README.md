@@ -38,6 +38,8 @@
     - [Chomado's Portfolio(ちょまど)](https://chomado.com/chomado/)
     - [2023年度の作例](https://datgm23.github.io/portfolio/) / [リポジトリ](https://github.com/datgm23/portfolio)
     - [過去の講義の作例](https://github.com/tanakaedu/portfolio-with-markdown/blob/main/portfolio-example.md)
+- [音ゲーの考え方](https://docs.google.com/presentation/d/1-Ki7pmxyzOBGGHyZ8QfEhQkTYc0hnxAJNUuwADd-iOQ/)
+  - [線形補間](https://docs.google.com/document/d/1cjjKDY-WaEx25Z1pRFaalRfaNDX2hn_wh6kSQMTlImw/)
 - 1週間ゲームジャム向けの技術調査
 - [Unity1週間ゲームジャム12月](https://docs.google.com/document/d/1s14VSICyNxxBKNxcswlGlitX1P0MV1SW8mUa_Vm3OfY/)の方針
 
