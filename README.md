@@ -24,7 +24,7 @@
 - [よけとる企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
 - [よけとる仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
 
-## 後期8回目(12/8)
+## 後期9回目(12/15)
 
 ### 話題
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks)が12/18から開催
@@ -32,6 +32,22 @@
 - [unityroomのスコアランキング機能の実装方法](https://unityroom-help.notion.site/4fae458305a948818b90e50dcad6a3f3)
 
 ### 予定
+- オブジェクト指向入門 [C#のオブジェクト指向プログラミング](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/edit#heading=h.83c3eg3zkvj8) 抽象メソッドと抽象クラスから
+- 1週間ゲームジャム素振り
+  - [提出を前提としたUnityプロジェクトの作成](https://docs.google.com/document/d/1cKHfLM4ADKpJm51GapFTZa5gZbMCzWXGLcjtmvHFEao/)
+  - [Unity1週間ゲームジャム12月](https://docs.google.com/document/d/1s14VSICyNxxBKNxcswlGlitX1P0MV1SW8mUa_Vm3OfY/)の方針
+  - 企画立案の復習
+  - 企画、技術の調査
+
+
+## 後期8回目(12/8)
+
+### 話題
+- [1週間ゲームジャム](https://unityroom.com/unity1weeks)が12/18から開催
+- [unity1week Team-Up!!　はじめました](https://note.com/metaformingpro/n/n200ae566e501)
+- [unityroomのスコアランキング機能の実装方法](https://unityroom-help.notion.site/4fae458305a948818b90e50dcad6a3f3)
+
+### 内容
 - [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
   - 前回の復習とポートフォリオページの作りこみ
   - ポートフォリオの例
