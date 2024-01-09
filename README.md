@@ -24,6 +24,26 @@
 - [よけとる企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
 - [よけとる仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
 
+## 後期11回目(1/12)
+
+### 予定
+- 1週間ゲームジャムの成果をポートフォリオに記載
+  - ゲームタイトル
+  - ゲーム画面のスクリーンショット
+  - ゲーム概要
+  - 操作説明
+  - ルール
+  - 使用アセットのリストとリンク
+- プロジェクトの提出
+  - UnityとVisual Studioを閉じる
+  - プロジェクトフォルダーをデスクトップへコピー
+  - デスクトップにコピーしたプロジェクトフォルダー内のLibraryフォルダーとあれば.gitフォルダーを削除
+  - デスクトップにコピーしたプロジェクトフォルダーを右クリックして、7-Zip > 圧縮 > アーカイブ形式をzipにして圧縮
+  - `Z:\2023\student\gp1\正月休みプロジェクト`内にフォルダーを作成して、フォルダー名を自分の名前にする
+  - 圧縮したzipファイルを自分の名前のフォルダーにコピー
+  - コピーしたら、デスクトップにコピーしたフォルダーやzipファイルは削除する
+
+
 ## 後期10回目(12/22)
 
 ### 1週間ゲームジャム
@@ -31,12 +51,8 @@
 - [unity1week Team-Up!!　はじめました](https://note.com/metaformingpro/n/n200ae566e501)
 - [unityroomのスコアランキング機能の実装方法](https://unityroom-help.notion.site/4fae458305a948818b90e50dcad6a3f3)
 
-### 次回予定
-- 1週間ゲームジャム結果報告
-- ポートフォリオに成果を記載
-- プロジェクトのとりまとめ
 
-### 予定
+### 内容
 - もくもく会方式
   - 開始時に現状と今日やることを簡単に報告
     - [カタチナゲル企画概要書](https://docs.google.com/document/d/16itfVpbCPmUwejBRoO4P47o-NotTgGN--UWc2rGBhIk/)
