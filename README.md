@@ -24,9 +24,20 @@
 - [よけとる企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
 - [よけとる仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
 
-## 後期11回目(1/12)
+## 後期12回目(1/19)
 
 ### 予定
+- 卒業制作に向けたギミックの検討
+- ポートフォリオページの不足点のチェック
+- 悪魔のサーカスの序盤をUnityで動かす
+  - アセット探し
+  - スクリプトエンジンの機能の洗い出し
+  - スクリプトの文法決め
+  - 設計(プログラム)
+
+## 後期11回目(1/12)
+
+### 内容
 - 1週間ゲームジャムの成果をポートフォリオに記載
   - ゲームタイトル
   - ゲーム画面のスクリーンショット
