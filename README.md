@@ -28,6 +28,8 @@
 
 ### 予定
 - 卒業制作
+  - ボードゲーム調査
+    - [BGA](https://ja.boardgamearena.com/gamelist)
   - ボードゲーム、トランプゲーム
     - ルールが掲載されているURLを探して、Slackに貼り付ける
     - ルールを明確にする
