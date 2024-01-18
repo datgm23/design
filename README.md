@@ -4,7 +4,7 @@
 - [Google Meet](https://meet.google.com/bwb-njcm-udh)
 - [Slack](https://datgm23.slack.com)
 - [金曜 講義日程](fri.md)
-- [UNITYの準備](https://am1.jp/tutorials/unity/)
+- [UNITYの準備]([https://am1.jp/tutorials/unity/](https://creator.cluster.mu/2020/03/31/%e3%80%8cunity%e3%80%8d%e3%81%a8%e3%80%8ccluster-creator-kit%e3%80%8d%e3%82%92-%e5%b0%8e%e5%85%a5%e3%81%99%e3%82%8b/))
 
 ## リンク
 - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
