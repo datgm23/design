@@ -27,12 +27,6 @@
 ## 後期12回目(1/19)
 
 ### 予定
-- ポートフォリオページのチェック
-  - [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
-  - ポートフォリオの例
-    - [Chomado's Portfolio(ちょまど)](https://chomado.com/chomado/)
-    - [2023年度の作例](https://datgm23.github.io/portfolio/) / [リポジトリ](https://github.com/datgm23/portfolio)
-    - [過去の講義の作例](https://github.com/tanakaedu/portfolio-with-markdown/blob/main/portfolio-example.md)
 - 卒業制作
   - ボードゲーム調査
     - [BGA](https://ja.boardgamearena.com/gamelist)
@@ -45,6 +39,12 @@
     - 成果をシンプルに表示
   - 卒業制作に向けたギミックの検討
     - 例：ロープアクション、爆弾の誘爆、裏表による強弱変換、色（影）を合わせて障害物を消す、ルートをつなぐ（電流、パイプ、道、橋）、ホッピングマシン、傘、ブーメラン、トランポリン、塗った場所、錯覚、振り子、消火、延焼
+- ポートフォリオページのチェック
+  - [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
+  - ポートフォリオの例
+    - [Chomado's Portfolio(ちょまど)](https://chomado.com/chomado/)
+    - [2023年度の作例](https://datgm23.github.io/portfolio/) / [リポジトリ](https://github.com/datgm23/portfolio)
+    - [過去の講義の作例](https://github.com/tanakaedu/portfolio-with-markdown/blob/main/portfolio-example.md)
 - [BGA Studio: BGA フレームワークの概要](https://www.slideshare.net/boardgamearena/the-bga-framework-at-a-glance)
 - 仕様書作成
   - ボードゲームか、特殊ギミックを使ったゲームについて、ほかの人がテストプレイ版を開発できるように必要な情報をGoogleスプレッドシートにまとめる
