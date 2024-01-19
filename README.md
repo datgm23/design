@@ -24,9 +24,24 @@
 - [よけとる企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
 - [よけとる仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
 
-## 後期12回目(1/19)
+## 後期13回目(1/26)
 
 ### 予定
+- ボードゲーム案の検討と共有
+- 仕様書作成
+  - ボードゲームか、特殊ギミックを使ったゲームについて、ほかの人がテストプレイ版を開発できるように必要な情報をGoogleスプレッドシートにまとめる
+  - ゲームプレイの部分を作成
+    1. 画面レイアウト案
+    2. 必要な機能の列挙
+    4. ゲーム開始からの流れ
+    5. 流れごとの詳細と操作
+    6. 要素の詳細
+    7. 必要な画像や音源の種類
+
+
+## 後期12回目(1/19)
+
+### 内容
 - 卒業制作
   - ボードゲーム調査
     - [BGA](https://ja.boardgamearena.com/gamelist)
@@ -46,22 +61,6 @@
     - [2023年度の作例](https://datgm23.github.io/portfolio/) / [リポジトリ](https://github.com/datgm23/portfolio)
     - [過去の講義の作例](https://github.com/tanakaedu/portfolio-with-markdown/blob/main/portfolio-example.md)
 - [BGA Studio: BGA フレームワークの概要](https://www.slideshare.net/boardgamearena/the-bga-framework-at-a-glance)
-- 仕様書作成
-  - ボードゲームか、特殊ギミックを使ったゲームについて、ほかの人がテストプレイ版を開発できるように必要な情報をGoogleスプレッドシートにまとめる
-  - ゲームプレイの部分を作成
-    1. 画面レイアウト案
-    2. 必要な機能の列挙
-    4. ゲーム開始からの流れ
-    5. 流れごとの詳細と操作
-    6. 要素の詳細
-    7. 必要な画像や音源の種類
-
-### 延期
-- 悪魔のサーカスの序盤をUnityで動かす
-  - アセット探し
-  - スクリプトエンジンの機能の洗い出し
-  - スクリプトの文法決め
-  - 設計(プログラム)
 
 ## 後期11回目(1/12)
 
