@@ -37,6 +37,8 @@
     5. 流れごとの詳細と操作
     6. 要素の詳細
     7. 必要な画像や音源の種類
+- [Photon Realtime. Getting Started](https://doc.photonengine.com/ja-jp/realtime/current/getting-started/realtime-intro)
+  - Unityで動かしてみる
 
 
 ## 後期12回目(1/19)
