@@ -27,6 +27,7 @@
 ## 後期13回目(1/26)
 
 ### 予定
+- [作業手順](https://docs.google.com/document/d/1QQMcZbUw1YxN97fMtQCzHZD2Si2e1XqLPGrxGciZ8Lo/)
 - ボードゲーム案の検討と共有
 - ボードゲームのルールを考える
 - 仕様書作成
