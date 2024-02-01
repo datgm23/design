@@ -24,9 +24,16 @@
 - [よけとる企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
 - [よけとる仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
 
-## 後期13回目(1/26)
+## 後期14回目(2/2)
 
 ### 予定
+- [前回の続きから](https://docs.google.com/document/d/1QQMcZbUw1YxN97fMtQCzHZD2Si2e1XqLPGrxGciZ8Lo/)
+  - Serviceの実行、ルームへの参加から
+
+
+## 後期13回目(1/26)
+
+### 内容
 - [作業手順](https://docs.google.com/document/d/1QQMcZbUw1YxN97fMtQCzHZD2Si2e1XqLPGrxGciZ8Lo/)
 - ボードゲーム案の検討と共有
 - ボードゲームのルールを考える
