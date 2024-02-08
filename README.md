@@ -24,9 +24,18 @@
 - [よけとる企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
 - [よけとる仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
 
+## 後期15回目(2/9)
+
+### 内容
+- [前回の続きから](https://docs.google.com/document/d/1QQMcZbUw1YxN97fMtQCzHZD2Si2e1XqLPGrxGciZ8Lo/)
+  - 前回の振り返り
+  - 手を決めて送信する処理から
+- 1年間の振り返り
+- 卒業制作に向けて
+
 ## 後期14回目(2/2)
 
-### 予定
+### 内容
 - [前回の続きから](https://docs.google.com/document/d/1QQMcZbUw1YxN97fMtQCzHZD2Si2e1XqLPGrxGciZ8Lo/)
   - Serviceの実行、ルームへの参加から
 
