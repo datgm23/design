@@ -26,6 +26,9 @@
 
 ## 後期15回目(2/9)
 
+### 話題
+- [ゲームクリエイター甲子園2024開幕](https://game.creators-guild.com/gck/)
+
 ### 内容
 - [前回の続きから](https://docs.google.com/document/d/1QQMcZbUw1YxN97fMtQCzHZD2Si2e1XqLPGrxGciZ8Lo/)
   - 前回の振り返り
